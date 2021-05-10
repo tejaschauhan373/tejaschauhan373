@@ -27,12 +27,5 @@ Here are some ideas to get you started:
 </a>
 Made with [contributors-img](https://contrib.rocks).
 --------------------------------------------------------------------
-## 4. Random Joke Generator
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
---------------------------------------------------------------------
-## 5. Profile View Counter
+## 4. Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=tejaschauhan373"/>
-### HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/tejaschauhan373/Python)
---------------------------------------------------------------------
