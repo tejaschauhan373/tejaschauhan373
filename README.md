@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 ## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tejaschauhan373&show_icons=true)
 --------------------------------------------------------------------
 ## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaschauhan373&theme=blue-green)
 --------------------------------------------------------------------
 ## 3. Contributors Badge
-<a href="https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python" />
+<a href="https://github.com/tejaschauhan373/Python/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=tejaschauhan373/Python" />
 </a>
 Made with [contributors-img](https://contrib.rocks).
 --------------------------------------------------------------------
@@ -32,7 +32,7 @@ Made with [contributors-img](https://contrib.rocks).
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 --------------------------------------------------------------------
 ## 5. Profile View Counter
-<img src="https://komarev.com/ghpvc/?username=Tanu-N-Prabhu"/>
+<img src="https://komarev.com/ghpvc/?username=tejaschauhan373"/>
 ### HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/tejaschauhan373/Python)
 --------------------------------------------------------------------
