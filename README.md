@@ -21,11 +21,5 @@ Here are some ideas to get you started:
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tejaschauhan373&theme=blue-green)
 --------------------------------------------------------------------
-## 3. Contributors Badge
-<a href="https://github.com/tejaschauhan373/Python/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=tejaschauhan373/Python" />
-</a>
-Made with [contributors-img](https://contrib.rocks).
---------------------------------------------------------------------
-## 4. Profile View Counter
+## 3. Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=tejaschauhan373"/>
