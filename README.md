@@ -23,3 +23,12 @@ Here are some ideas to get you started:
 --------------------------------------------------------------------
 ## 3. Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=tejaschauhan373"/>
+
+## Let's Connect
+<a href="https://in.linkedin.com/in/tejas-chauhan-525776170" title="Follow me on LinkedIn">
+  <img
+    width="24"
+    alt="Follow me on LinkedIn"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
+  /></a>
+&nbsp;
