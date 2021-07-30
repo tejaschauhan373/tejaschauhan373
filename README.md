@@ -1,9 +1,8 @@
 ### Hi there 👋
-
+- 💡 I'm Back End Developer
 - 🔭 I’m currently working on [book-my-delivery](https://github.com/tejaschauhan373/book-my-delivery) & various web backend integrations
-- 🌱 I’m currently learning various design patterns
+- 🌱 I’m currently learning design patterns
 - 👯 I’m looking to collaborate on: **anything free and open source**
-- 💬 Ask me about python, flask, django, web scrapping
 - 📫 How to reach me: tejaschauhan373@gmail.com
 
 --------------------------------------------------------------------
