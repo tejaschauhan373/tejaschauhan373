@@ -1,26 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [book-my-delivery](https://github.com/tejaschauhan373/book-my-delivery) various web backend integrations
-- 🌱 I’m currently learning various design patterns & system designs
+- 🔭 I’m currently working on [book-my-delivery](https://github.com/tejaschauhan373/book-my-delivery) & various web backend integrations
+- 🌱 I’m currently learning various design patterns
 - 👯 I’m looking to collaborate on: **anything free and open source**
-- 💬 Ask me about python, flask, Django
+- 💬 Ask me about python, flask, django, web scrapping
 - 📫 How to reach me: tejaschauhan373@gmail.com
 
-<!--
-**tejaschauhan373/tejaschauhan373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+--------------------------------------------------------------------
 <details>
   <summary style="font-size:1.25em"><strong>GitHub Stats</strong></summary>
   <a href="https://github.com/tejaschauhan373/github-readme-stats" title="Go to Source">
@@ -31,6 +17,7 @@ Here are some ideas to get you started:
   </a>
 </details>
 
+--------------------------------------------------------------------
 <details>
   
 ## Languages
@@ -44,7 +31,7 @@ Here are some ideas to get you started:
 
 ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express)
-![Django](https://img.shields.io/badge/django%20-%2343B02A.svg?&style=for-the-badge&logo=Django)
+![Django](https://img.shields.io/badge/django%20-%2343B02A.svg?&style=for-the-badge&logo=Django&logoColor=green)
 ![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium%20-%2343B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white)
 
@@ -61,6 +48,8 @@ Here are some ideas to get you started:
 ## Other
 
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm%20-%23121011.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm%20-%2320232a.svg?&style=for-the-badge&logo=WebStorm&logoColor=%2361DAFB)
 
 ## Operating Systems
 
@@ -69,7 +58,7 @@ Here are some ideas to get you started:
 </details>
 
 --------------------------------------------------------------------
-## 3. Profile View Counter
+## Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=tejaschauhan373"/>
 
 ## Let's Connect
