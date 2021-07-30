@@ -60,6 +60,7 @@
 <summary style="font-size:1.25em"><strong>Profile View Counter<strong/></summary>  
 <img src="https://komarev.com/ghpvc/?username=tejaschauhan373"/>
 
+--------------------------------------------------------------------
 <summary style="font-size:1.25em"><strong>Contact<strong/></summary>  
 <a href="https://in.linkedin.com/in/tejas-chauhan-525776170" title="Follow me on LinkedIn">
   <img
