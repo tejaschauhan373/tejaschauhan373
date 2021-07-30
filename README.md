@@ -6,19 +6,18 @@
 - 📫 How to reach me: tejaschauhan373@gmail.com
 
 --------------------------------------------------------------------
-<details>
-  <summary style="font-size:1.25em"><strong>GitHub Stats</strong></summary>
+  <summary style="font-size:1.25em"><strong>GitHub Stats<strong/></summary>
   <a href="https://github.com/tejaschauhan373/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=tejaschauhan373&show_icons=true&theme=gotham">
   </a>
   <a href="https://github.com/tejaschauhan373/github-readme-stats">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaschauhan373&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
-</details>
 
 --------------------------------------------------------------------
 <details>
-  
+ 
+<summary style="font-size:1.25em"><strong>Skills<strong/></summary>
 ## Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -57,10 +56,11 @@
 </details>
 
 --------------------------------------------------------------------
-## Profile View Counter
+
+<summary style="font-size:1.25em"><strong>Profile View Counter<strong/></summary>  
 <img src="https://komarev.com/ghpvc/?username=tejaschauhan373"/>
 
-## Let's Connect
+<summary style="font-size:1.25em"><strong>Contact<strong/></summary>  
 <a href="https://in.linkedin.com/in/tejas-chauhan-525776170" title="Follow me on LinkedIn">
   <img
     width="24"
