@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💡 I'm Back End Developer
+- 💡 I'm Software Engineer (Web Backend)
 - 🔭 I’m currently working on [book-my-delivery](https://github.com/tejaschauhan373/book-my-delivery) & various web backend integrations
 - 🌱 I’m currently learning design patterns
 - 👯 I’m looking to collaborate on: **anything free and open source**
