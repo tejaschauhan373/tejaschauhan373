@@ -1,16 +1,9 @@
 ### Hi there 👋
-- 💡 I'm Software Engineer (Web Backend)
+- 💡 I'm Software Engineer.
 - 👯 I’m looking to collaborate on: **anything free and open source**
 - 📫 How to reach me: tejaschauhan373@gmail.com
 
---------------------------------------------------------------------
-  <summary style="font-size:1.25em"><strong>GitHub Stats<strong/></summary>
-  <a href="https://github.com/tejaschauhan373/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=tejaschauhan373&show_icons=true&theme=gotham">
-  </a>
-  <a href="https://github.com/tejaschauhan373/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaschauhan373&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
-  </a>
+
 
 --------------------------------------------------------------------
 <details>
