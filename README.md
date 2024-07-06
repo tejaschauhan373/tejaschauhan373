@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 💡 I'm Software Engineer.
-- 👯 I’m looking to collaborate on: **anything related open source python**
+- 👯 I’m looking to collaborate on: **anything related to open source python code**
 - 📫 How to reach me: tejaschauhan373@gmail.com
 
 
